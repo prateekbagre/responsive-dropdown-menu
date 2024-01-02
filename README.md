@@ -8,4 +8,4 @@
 
 [Click here to view the Project](https://projects-by-prateek-weather-app.vercel.app/)
 
-![weather-app_ss](https://github.com/prateekbagre/responsive-dropdown-menu/preview.png)
+https://github.com/prateekbagre/responsive-dropdown-menu/preview.png
