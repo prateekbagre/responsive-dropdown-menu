@@ -6,4 +6,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices.
 
-![preview img](/preview.png)
+[Click here to view the Project](https://projects-by-prateek-weather-app.vercel.app/)
+
+![weather-app_ss](https://github.com/prateekbagre/responsive-dropdown-menu/preview.png)
