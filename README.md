@@ -7,5 +7,3 @@
 - Compatible with all mobile devices.
 
 [Click here to view the Project](https://projects-by-prateek-weather-app.vercel.app/)
-
-![Preview](preview.png)
