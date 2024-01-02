@@ -8,6 +8,6 @@
 
 [Click here to view the Project](https://projects-by-prateek-weather-app.vercel.app/)
 
-![Preview](https://github.com/prateekbagre/responsive-dropdown-menu/blob/main/preview.png)
+![Preview](preview.png)
 
 [image link](https://github.com/prateekbagre/responsive-dropdown-menu/blob/main/preview.png)
